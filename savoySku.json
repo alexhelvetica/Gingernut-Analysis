@@ -1,0 +1,38 @@
+{
+  "8638456": {
+    "id": 8638456,
+    "name": "arnott's-savoy-crackers-original-225g",
+    "display-name": "Savoy Original",
+    "svg": "<svg viewBox=\"-2 -2 104 104\" height=\"20\" width=\"20\" class=\"savoy-org-svg\" xmlns=\"http://www.w3.org/2000/svg\"><circle r=\"50\" cx=\"50\" cy=\"50\" fill=\"#1b9e77\" fill-opacity=\"0.7\" stroke=\"black\" stroke-width=\"4px\" stroke-opacity=\"0.3\"/></svg>"
+  },
+  "8638467": {
+    "id": 8638467,
+    "name": "arnott's-savoy-crackers-cracked-pepper-225g",
+    "display-name": "Savoy Cracked Pepper",
+    "svg": "<svg viewBox=\"-2 -2 104 104\" height=\"20\" width=\"20\" class=\"vic-svg\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M50 0A50 50,0,0,0,0 50L50 50Z\" fill=\"#1b9e77\"/><circle r=\"50\" cx=\"50\" cy=\"50\" fill=\"none\" stroke=\"black\" stroke-width=\"4px\" stroke-opacity=\"0.3\" /></svg>"
+  },
+  "7650354": {
+    "id": 7650354,
+    "name": "arnotts-gluten-free-savoy-original-crackers-130g",
+    "display-name": "Savoy Original Gluten Free",
+    "svg": "<svg viewBox=\"-2 -2 104 104\" height=\"20\" width=\"20\" class=\"vic-svg\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M50 0A50 50,0,0,0,0 50L50 50Z\" fill=\"#1b9e77\"/><circle r=\"50\" cx=\"50\" cy=\"50\" fill=\"none\" stroke=\"black\" stroke-width=\"4px\" stroke-opacity=\"0.3\" /></svg>"
+  },
+  "8646782": {
+    "id": 8646782,
+    "name": "arnott's-jatz-crackers-original-225g",
+    "display-name": "Jatz Original",
+    "svg": "<svg viewBox=\"-2 -2 104 104\" height=\"20\" width=\"20\" class=\"jatz-org-svg\" xmlns=\"http://www.w3.org/2000/svg\"><circle r=\"50\" cx=\"50\" cy=\"50\" fill=\"#d95f02\" fill-opacity=\"0.7\" stroke=\"black\" stroke-width=\"4px\" stroke-opacity=\"0.3\"/></svg>"
+  },
+  "8646793": {
+    "id": 8646793,
+    "name": "arnott's-jatz-crackers-cracked-pepper-225g",
+    "display-name": "Jatz Cracked Pepper",
+    "svg": "<svg viewBox=\"-2 -2 104 104\" height=\"20\" width=\"20\" class=\"sa-svg\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M50 100A50 50,0,0,0,100 50L50 50Z\" fill=\"#e7298a\"/><circle r=\"50\" cx=\"50\" cy=\"50\" fill=\"none\" stroke=\"black\" stroke-width=\"4px\" stroke-opacity=\"0.3\" /></svg>"
+  },
+  "7650343": {
+    "id": 7650343,
+    "name": "arnotts-gluten-free-original-crackers-jatz-130g",
+    "display-name": "Jatz Original Gluten Free",
+    "svg": "<svg viewBox=\"-2 -2 104 104\" height=\"20\" width=\"20\" class=\"sa-svg\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M50 100A50 50,0,0,0,100 50L50 50Z\" fill=\"#e7298a\"/><circle r=\"50\" cx=\"50\" cy=\"50\" fill=\"none\" stroke=\"black\" stroke-width=\"4px\" stroke-opacity=\"0.3\" /></svg>"
+  }
+}
